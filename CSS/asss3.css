@@ -1,0 +1,90 @@
+body{background-image: url(../Images/pakurang.jpg)}
+
+#banner {
+	height: 90px;
+	width: 1544px;
+	background-color: aquamarine;
+	font-size: 60px;
+ border-radius: 15px;
+	opacity: 0.6;
+padding: 5px;
+font-family: 'Exo', sans-serif;
+}
+
+#nav{
+	height: 500px;
+	width: 200px;
+	background-color: aqua;
+	float:left;
+	padding: 10px;
+	margin-top: 10px;
+border-radius: 15px;
+	opacity: 0.5;
+	
+}
+#nav a{
+	color: black;
+	text-decoration: none;	
+	opacity: 0.8;
+	font-size: 30px;
+
+}
+#text1:hover #text1:active{
+	color: aqua;
+	text-decoration: none;	
+	ont-size: 30px;
+	transition: 0.5s;
+
+}
+#main{
+	height: 600px;
+	width:1000px;
+	background-color: darkseagreen;
+	border-radius: 15px;
+	margin-top: 10px;
+	margin-left: 300px;
+	padding: 5px;
+	opacity: 0.9;
+	float: left;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 20px;
+
+}
+
+
+#text1{
+	height: 80px;
+	width: 700px;
+	font-size: 50px
+}
+
+nav {
+	background-color: darkseagreen;
+	width: 1544px;
+	opacity: 0.8
+}
+nav ul {
+	display: table;
+}
+nav ul li {
+	display: table-cell;
+	padding: 10px 15px;
+	width: 179px;
+}
+nav ul li a {
+	color: black;
+	text-decoration: none;
+}
+	nav li:hover {
+	color: #DBCB5B;
+}
+nav a:hover, nav a:active, nav a:focus {
+	color: aqua;
+	transition: 0.5s
+}
+
+#wrapper
+{
+	float: inherit;
+	margin-left: 150px
+}
