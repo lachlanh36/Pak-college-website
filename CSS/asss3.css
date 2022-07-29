@@ -1,5 +1,16 @@
 body{background-image: url(../Images/pakurang.jpg)}
 
+.floatright {
+	float: right}
+
+.textmargin1
+
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 20px
+}
+
+
 #banner {
 	height: 90px;
 	width: 1544px;
